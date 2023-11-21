@@ -1,0 +1,26 @@
+
+body {
+    margin:0 20%;
+    background-color: aliceblue;
+}
+
+h1,h2,h3,p,header,footer,div {
+    text-align: center;
+}
+
+ul a {
+    padding: 20px;
+}
+
+.image1 img {
+    width: 70%;
+}
+
+.image2 img {
+   align-items: center;
+   width: 100%;
+}
+
+footer {
+    margin: 10px 0;
+}
